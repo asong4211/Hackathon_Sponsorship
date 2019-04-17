@@ -1,2 +1,2 @@
-# Hackathon_Sponsorship
+# Hackathon Sponsorship
 Everything you need to know to get started with sponsorship
