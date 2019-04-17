@@ -5,6 +5,10 @@ Everything you need to know to get started with sponsorship
 
 ## Table of Contents:
 1. [Sponsorship Pipeline](#sponsorship-pipeline)
+   1. Differentiate your event
+   2. Find Sponsors/ Email
+   3. Phone Calls
+   4. After the phone calls 
 2. [Sponsorship Tiers](#sponsorship-tiers)
 3. [Tools](#tools)
 4. [Some pro-tips](#pro-tips)
