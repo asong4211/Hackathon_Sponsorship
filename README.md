@@ -5,9 +5,10 @@ Everything you need to know to get started with sponsorship
 
 ## Table of Contents:
 1. [Sponsorship Pipeline](#sponsorship-pipeline)
-2. [Tools](#tools)
-2. [Some pro-tips](#pro-tips)
-3. [Resources](#resources)
+2. [Sponsorship Tiers](#sponsorship-tiers)
+3. [Tools](#tools)
+4. [Some pro-tips](#pro-tips)
+5. [Resources](#resources)
 
 
 ## Sponsorship Pipeline:
