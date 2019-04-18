@@ -1,7 +1,6 @@
 from run import email_verifier
 import sys
 
-email_verifier("asong4211@gmail.com")
 
 
 first = input("What's his/her first name? ").strip().lower()
